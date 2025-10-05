@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Assignment Test Suite">
+    <test name="Assignment Tests">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.automation.tests.AssignmentTest"/>
+        </classes>
+    </test>
+</suite>
